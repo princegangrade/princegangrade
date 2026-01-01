@@ -28,9 +28,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princegangrade&show_icons=true&theme=dark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com?user=princegangrade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princegangrade&theme=dark&hide_border=false&layout=compact)
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=princegangrade&show_icons=true&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princegangrade&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=princegangrade&layout=compact&theme=dark" />
 
 ---
 
