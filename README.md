@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 About Me<br><br>
-🎓 3rd-year B.Tech student in Data Science<br>
+🎓 Final year B.Tech student in Data Science<br>
 📊 Interested in data analysis and Artificial Intelligence<br>
 📚 Learning how to extract insights from data and build data-driven solutions<br>
 🧠 Curious about patterns, trends, and real-world problem solving<br>
